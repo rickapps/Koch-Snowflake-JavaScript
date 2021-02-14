@@ -1,7 +1,0 @@
-{
-    "open-php-html-js-in-browser.selectedBrowser": "Firefox",
-    "open-php-html-js-in-browser.urlToOpen": "custom",
-    "open-php-html-js-in-browser.customHost": "sandbox:80",
-    "open-php-html-js-in-browser.documentRootFolder": "~/Projects/sandbox/snow",
-    "open-php-html-js-in-browser.customUrlToOpen": "http://sandbox/snow/${relativeDirnameDocumentRoot}/${fileBasename}"
-}
