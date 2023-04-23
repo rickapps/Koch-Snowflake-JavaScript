@@ -1,0 +1,39 @@
+body {
+background-color: black;
+}
+
+#wrapper {
+background-color: yellow;
+max-width: 1600px;
+margin: 0 auto;
+}
+
+#flex-container {
+background-color: yellow;
+display: flex;
+align-items: center;
+flex-direction: column;
+justify-content: center;
+}
+
+header {
+    background-color: wheat;
+    height: 2rem;
+}
+
+main {
+    margin: 15px;
+    width: 88vmin;
+    aspect-ratio: 1/1;
+    padding: 0;
+    background-color: blue;
+}
+
+footer {
+    background-color: blueviolet;
+    height: 2rem;
+}
+  
+.mycanvas {
+    margin: 0;
+}
